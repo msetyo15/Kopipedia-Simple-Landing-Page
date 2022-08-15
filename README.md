@@ -1,6 +1,6 @@
 Kopipedia
 ===
-Abstract: This repository contains HTML - Simple Landing Page files provided by Progate for development in the DTS FGA - Front End Developer (HTML, CSS, JavaScript) training in collaboration with Digitalent Kominfo (Ministry of Communication and Information Technology) of the Republic of Indonesia.
+This repository contains HTML - Simple Landing Page files provided by Progate for development in the DTS FGA - Front End Developer (HTML, CSS, JavaScript) training in collaboration with Digitalent Kominfo (Ministry of Communication and Information Technology) of the Republic of Indonesia.
 
 ## Papar Information
 - Title:  `Kopipedia`

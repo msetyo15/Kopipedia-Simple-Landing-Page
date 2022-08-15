@@ -4,7 +4,7 @@ Abstract: This repository contains HTML - Simple Landing Page files provided by 
 
 ## Papar Information
 - Title:  `Kopipedia`
-- Author:  `Manuel Setyo Saputro Sriwibowo`
+- Author:  [`Manuel Setyo Saputro Sriwibowo`](https://github.com/msetyo15)
 - Types: `Simple`, `Landing Page`, `Website`
 - Files: [view](https://github.com/msetyo15/Kopipedia-Simple-Landing-Page)
 - Demo Program: [view](https://msetyo15.github.io/Kopipedia-Simple-Landing-Page/)

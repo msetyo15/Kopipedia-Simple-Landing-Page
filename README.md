@@ -10,7 +10,7 @@ This repository contains HTML - Simple Landing Page files provided by Progate fo
 - Demo Program: [view](https://msetyo15.github.io/Kopipedia-Simple-Landing-Page/)
 
 ## Preview
-![preview](https://raw.githubusercontent.com/msetyo15/Kopipedia-Simple-Landing-Page/main/images/demo-web-1.png)
+![preview](./images/demo-web-1.png)
 
 ## Install & Dependence
 - text editor (vscode, atom, etc)

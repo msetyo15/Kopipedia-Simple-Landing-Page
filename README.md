@@ -55,7 +55,9 @@ This repository contains HTML - Simple Landing Page files provided by Progate fo
 |—— css
 |    |—— style.css
 |—— images
+|    |—— apple-touch-icon.png
 |    |—— demo-web-1.png
+|    |—— favicon.png
 |    |—— kopipedia.jpg
 |—— index.html
 |—— README.md
